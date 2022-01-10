@@ -28,8 +28,6 @@ This document shows you how to  download and install  R and RStudio on an Apple 
 \includegraphics[width=0.5\textwidth]{macOS_version}
 \end{center}
 
-<!-- <center>![](macOS_version.png){width=50%}</center> -->
-<!-- \ -->
 
 2. Make sure that you have about 500 MB of free space on your machine. We will need this space to install both R and RStudio, and when the program installs the compressed files expand to take much more space.  
 
@@ -51,8 +49,6 @@ R is now **installed** on your computer.
 \includegraphics[width=0.5\textwidth]{R_Console}
 \end{center}
 
-<!-- <center>![](R_Console.png){width=50%}</center>   -->
-<!-- \ -->
 
 The `>` character is called the prompt and is the place where we enter commands for the program to interpret. For instance, if you type `12+13` followed by the return/enter key, you will see:
 
@@ -71,8 +67,7 @@ R will ask you if you want to save your work:
 \begin{center}
 \includegraphics[width=0.3\textwidth]{Closing_R}
 \end{center}
-<!-- <center>![](Closing_R.png){width=30%}</center>   -->
-<!-- \ -->
+
 
 Click on "Don't Save". You have now left R.  
 
@@ -89,8 +84,7 @@ We are not going to work with R enviroment directly this way. Instead, we work w
 \begin{center}
 \includegraphics[width=0.5\textwidth]{Rstudio_mac}
 \end{center}
-<!-- <center>![](Rstudio_mac.png){width=50%}</center> -->
-<!-- \ -->
+
 
 Click on the RStudio icon and drag it into the Applications folder. 
 
@@ -106,8 +100,7 @@ It should look like this:
 \begin{center}
 \includegraphics[width=0.6\textwidth]{Rstudio_Window}
 \end{center}
-<!-- <center>![](Rstudio_Window.png){width=60%}</center> -->
-<!-- \   -->
+
 
 2. Like in R, the `>` character in the Console window is where we enter commands for the program to interpret.
 
