@@ -49,9 +49,6 @@ R is now **installed** on your computer.
 \includegraphics[width=0.5\textwidth]{R_Console_Windows}
 \end{center}
 
-<!-- <center>![](Images/R Console Windows.png){width=50%}   -->
-<!-- *Source: http://i1-win.softpedia-static.com/screenshots/R-for-Windows_7.png *</center>   -->
-<!-- \ -->
 
 The `>` character is called the prompt and is the place where we enter commands for the program to interpret. For instance, if you type `12+13` followed by the return/enter key, you will see:
 
@@ -101,12 +98,8 @@ RStudio is now **installed** on your computer.
 
 In the Windows system, path names use backslashes, e.g. `C:\Users\armin\RWork\`. R, on the other hand, inherits its file and folder naming conventions from Unix which uses forward slashes instead: `C:/Users/armin/RWork/`.  
 
-<!-- In Unix conventions, backslashes are actually used for a different purpose (to isolate special characters and stop them from being immediately interpreted). -->
 
 **Note**: As an important rule, to avoid problems, we should avoid naming folders and files with spaces and special characters. As a general rule, I typically use `underline` to name the files and folder (without any space). For example, look at the name of this file `lab0_windows.pdf`. As another example, if armin wants to name his assignment 1 of stats 1510, armin can name his assignment file by `armin_hatefi_stat1510_assignment1_w22.pdf`.
 
-<!-- If you already have an important directory with a space in its name, know that when trying to reference that directory in R, you have to put a backslash in front of each space. -->
-
-<!-- **Note**: ("C:\\Path\\To\\A\\File") is the same as ("C:/Path/To/A/File"). -->
 
 *It was easy?! Yes, I know!*
