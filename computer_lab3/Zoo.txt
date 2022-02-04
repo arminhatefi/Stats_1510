@@ -1,0 +1,2 @@
+Animal CountLion      4Tiger     6SeaLion   13Monkey    21
+Elephant  3
