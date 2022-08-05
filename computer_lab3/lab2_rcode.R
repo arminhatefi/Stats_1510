@@ -10,7 +10,8 @@ ex11Data
 
 ex14Data <- read.csv(file="eg14-01.csv",header = T, sep=",")
 ex14Data
-
+plot(ex14Data[1,])
+lines(ex14Data[2,], add=T)
 ##********************************
 ## Line Graph
 
